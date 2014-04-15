@@ -1,0 +1,4 @@
+joias
+=====
+
+jogo das joias
